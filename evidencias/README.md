@@ -15,3 +15,7 @@ Capturas do notebook em 25/10/2026:
 Textos das respostas: [Q01](respostas/q01.md), [Q02](respostas/q02.md), [Q05](respostas/q05.md) e [Q08](respostas/q08.md). As cópias textuais podem não preservar os marcadores de citação. Para a conferência, consultar [validação](../docs/validacao.md) e as capturas.
 
 A captura do mapa é JPG da visualização real. Não é uma exportação nativa em PNG nem uma simulação da interface. Os exemplos de senhas e pessoas no chat são fictícios.
+
+## Compartilhamento
+
+[compartilhamento.jpg](compartilhamento.jpg): recorte do cabeçalho com o indicador “Compartilhado”, sem a área de dados da conta. A permissão “Qualquer pessoa com o link” e a opção de cópias desativada foram conferidas separadamente no diálogo da ferramenta. Verificação realizada em 25/10/2026; não representa teste de acesso em uma sessão independente.

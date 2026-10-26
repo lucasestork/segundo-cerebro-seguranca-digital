@@ -4,13 +4,13 @@ Projeto do desafio DIO construído no **Gemini Notebook (NotebookLM)** com fonte
 
 **Objetivo:** aprender a proteger contas, dispositivos e arquivos pessoais, reconhecendo golpes e adotando hábitos de autenticação e backup com base em fontes confiáveis.
 
-**Status:** notebook e materiais criados; repositório público. Falta liberar e testar a visualização do notebook por link antes da submissão.
+**Status:** notebook e materiais criados; repositório público e notebook com visualização por link liberada.
 
 ## Notebook
 
 [Abrir Segurança digital pessoal — Segundo cérebro DIO](https://notebook.google.com/notebook/5fbb60b2-f3d9-4e30-882a-1506c0ec40e9).
 
-O acesso ainda está restrito ao proprietário. O endereço acima é real, mas ainda não é um compartilhamento validado para avaliadores.
+Compartilhamento configurado como **Qualquer pessoa com o link pode ver este notebook**, com cópias desativadas. A configuração salva foi conferida na ferramenta. [Evidência do compartilhamento](evidencias/compartilhamento.jpg). O acesso em uma sessão independente ainda deve ser conferido pelo autor antes da submissão.
 
 ## Fontes que entraram
 
@@ -75,7 +75,8 @@ A pesquisa complementar encontrou **41 fontes**. Foi examinada a lista, mas nenh
 - [x] Perguntas reais e citações verificadas por amostragem.
 - [x] Evidências e materiais com conteúdo incluídos.
 - [x] Repositório público na conta lucasestork.
-- [ ] Liberar visualização do notebook por link e testar em outra sessão.
+- [x] Liberar visualização do notebook por link e conferir a configuração salva.
+- [ ] Autor testar a abertura em outra conta ou sessão antes da submissão.
 - [ ] Autor revisar os materiais e submeter o endereço deste repositório à DIO.
 
 ## Autoria e transparência
